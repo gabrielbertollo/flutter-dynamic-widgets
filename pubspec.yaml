@@ -21,6 +21,7 @@ environment:
   sdk: ">=2.7.0 <3.0.0"
 
 dependencies:
+  json_dynamic_widget: ^1.4.1
   flutter:
     sdk: flutter
 
